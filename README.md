@@ -1,8 +1,8 @@
-# \[Group name\]
+# \[Lukas&August]
 
 **Group members:**
-- A
-- B
+- Lukas Kroer
+- August Faisst
 - C
 
 This repository contains  
