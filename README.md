@@ -3,7 +3,6 @@
 **Group members:**
 - Lukas Kroer
 - August Faisst
-- C
 
 This repository contains  
 1. Inaugural project. 
