@@ -204,8 +204,6 @@ class HouseholdSpecializationModelClass:
         x0 = np.array([0.5, 0.5])
 
         # c. Set interval for alpha and sigma
-        constraints = [{'type': 'ineq', 'fun': np.array([0,1])},
-                       {'type': 'ineq', 'fun': 1}]
         bounds = [(0,1), (0,10)]
 
         # d. Use scipy's minimize to find the value of sigma and alpha that minimizes the objective function
@@ -220,7 +218,7 @@ class HouseholdSpecializationModelClass:
         # a. Objective function
         def objective(x, self):
 
-            # Set alpha and sigma
+            # Set sigma
             par.sigma = x[0]
 
             # Solve for female wages vector
