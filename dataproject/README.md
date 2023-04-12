@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Stock correlation and performance** and is about analyzing correlation within the selected stocks and past performance. 
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
