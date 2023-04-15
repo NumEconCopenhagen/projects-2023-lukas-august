@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **Analysis of stock prices** and is about analyzing correlation within the selected stocks and past performance. 
+Our project is titled **Stock analysis** and is about analyzing correlation within the selected stocks and past performance. 
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
