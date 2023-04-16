@@ -4,11 +4,11 @@ Our project is titled **Stock analysis** and is about analyzing correlation with
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-We apply the **following datasets**:
-
-1. dataX.csv (*source*) 
-1. dataY.csv (*source*)
-
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
-``pip install matplotlib-venn``
+``pip install matplotlib-pyplot``
+``pip install pandas``
+``pip install numpy``
+``pip install datetime``
+``pip install yfinance``
+``pip install pandas_datareader``
