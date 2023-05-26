@@ -1,4 +1,4 @@
-# \Lukas&August
+# Lukas & August
 
 **Group members:**
 - Lukas Kroer
